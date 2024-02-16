@@ -1,0 +1,13 @@
+{
+    "name": "mi_proyecto",
+    "version": "1.0.0",
+    "description": "Descripción de mi proyecto",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
